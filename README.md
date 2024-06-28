@@ -6,5 +6,4 @@ Visit my website: [enscreative.net](https://enscreative.net)
 
 ## Contents
 - [Websites](./websites)
-- [Designs](./designs)
 - [Social Media](./social_media)
